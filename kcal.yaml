@@ -1,0 +1,15 @@
+# Synthetic demonstration values, not calibrated calorie estimates.
+# Keep personal settings in .local/kcal.yaml and set MACRO_APP_KCAL_CONFIG.
+exercise_burnt_kcal_dict:
+  demo_exercise: 1.0
+
+workout_repetitions:
+  demo_exercise: 10
+
+warmup_kcal: 0
+
+cardio_kcal_per_minute:
+  demo_cardio: 1.0
+
+workout_kcal:
+  demo_workout: 0

@@ -1,0 +1,37 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter-generated checkpoints
+.ipynb_checkpoints/
+
+# Local environments and configuration
+.venv/
+venv/
+env/
+.env
+.env.*
+.local/
+
+# Credentials and private keys
+sheets-*.json
+credentials*.json
+service-account*.json
+service_account*.json
+*.pem
+*.key
+
+# Local tooling and OS files
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
+
+# Else
+data/
+functions.py
+lifts.ipynb
+plots.ipynb
+google_sheets_backup/
